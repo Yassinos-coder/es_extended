@@ -1,5 +1,5 @@
 Citizen.CreateThread(function()
-	SetMapName('San Andreas')
+	SetMapName('Morroco')
 	SetGameType('Roleplay')
 	local resourcesStopped, isAceGranted = {}, false
 
